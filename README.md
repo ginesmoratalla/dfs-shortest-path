@@ -1,6 +1,15 @@
 # dfs-shortest-path
 
-Java implementation of Depth-First Search algorithm to find shortest path between points in a Maze (GUI provided)
+Java implementation of Depth-First Search algorithm to find shortest path between points in a Maze (GUI provided).
+Project for my Advanced Programming module (2nd year Computer Science).
+
+_Efficiency was not graded for this assignment over quality of the code, therefore DFS was chosen instead of other
+more efficient algorithms for this specific problem._
+
+#### Goals
+- improve OOP concepts and tools.
+- elaborate a solid
+  algorithm using prior knowledge in Data Structures and Algorithms.
 
 ## How to run
 
