@@ -1,6 +1,6 @@
 # dfs-shortest-path
 
-Java implementation of Depth-First Search algorithm to find shortest path
+Java implementation of Depth-First Search algorithm to find shortest path between points in a Maze (GUI provided)
 
 ## How to run
 
