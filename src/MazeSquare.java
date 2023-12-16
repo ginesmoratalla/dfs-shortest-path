@@ -1,5 +1,5 @@
 /**
- * Student ID: 38879816
+ * Author: Gines Moratalla
  */
 
 import java.awt.Point;
